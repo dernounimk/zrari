@@ -51,7 +51,7 @@ const FloatingBackground = () => (
 function App() {
   const [mood, setMood] = useState(() => {
     const savedMood = localStorage.getItem('portfolio-mood');
-    return savedMood || 'light';
+    return savedMood || 'dark';
   });
   const [icon, setIcon] = useState(mood === 'light' ? 'moon' : 'sun');
   const [showMenu, setShowMenu] = useState(false);
