@@ -1,7 +1,8 @@
 {
-  "name": "mk_portfolio",
+  "name": "zrari",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://dernouni.github.io/zrari",
   "type": "module",
   "scripts": {
     "dev": "vite",

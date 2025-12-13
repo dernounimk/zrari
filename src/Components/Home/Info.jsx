@@ -4,7 +4,7 @@ import './Home.css';
 
 function Info({ mood }) {
   const [animatedText, setAnimatedText] = useState('');
-  const fullText = "Dernouni Mohamed Khalil";
+  const fullText = "Zrari Mohamed";
   const timerRef = useRef(null);
   const currentIndexRef = useRef(0);
   const isTypingRef = useRef(true);

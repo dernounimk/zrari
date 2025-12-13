@@ -23,16 +23,16 @@ function Contact({ theMood }) {
             id: 1,
             icon: "uil uil-envelope-alt",
             title: "Email",
-            info: "dernounimk@gmail.com",
-            link: "mailto:dernounimk@gmail.com",
+            info: "mohamedzerari0722@gmail.com",
+            link: "mailto:mohamedzerari0722@gmail.com",
             action: "Write me"
         },
         {
             id: 2,
             icon: "uil uil-telegram",
             title: "Telegram",
-            info: "@dernouni_mk",
-            link: "https://t.me/dernouni_mk",
+            info: "@MOHEZee",
+            link: "https://t.me/MOHEZee",
             action: "Message me"
         }
     ];

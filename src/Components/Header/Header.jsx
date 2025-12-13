@@ -152,7 +152,7 @@ const Header = ({
               handleLinkClick('#home');
             }}
           >
-            Dernouni MK
+            Zrari
           </motion.a>
 
           {/* Desktop Menu */}

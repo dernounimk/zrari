@@ -7,29 +7,29 @@ function Footer({ mood }) {
         {
             id: 1,
             title: 'Instagram',
-            url: 'https://www.instagram.com/dernouni_mk/',
+            url: 'https://www.instagram.com/mohamed_zerari_/',
             icon: 'uil-instagram',
             color: '#E1306C'
         },
         {
             id: 2,
-            title: 'Linkedin',
-            url: 'https://www.linkedin.com/in/dernouni-mohamed-khalil-914ba92ba/',
-            icon: 'uil-linkedin',
+            title: 'Phone',
+            url: 'tel:+213-696-393-740',
+            icon: 'uil-phone',
             color: '#0077B5'
         },
         {
             id: 3,
             title: 'Facebook',
-            url: 'https://www.facebook.com/profile.php?id=100046511298578',
+            url: 'https://www.facebook.com/mohamed.zerari.247390',
             icon: 'uil-facebook',
             color: '#1877F2'
         },
         {
             id: 4,
-            title: 'Github',
-            url: 'https://github.com/dernounimk',
-            icon: 'uil-github-alt',
+            title: 'Telegram',
+            url: 'https://t.me/MOHEZee',
+            icon: 'uil-telegram',
             color: '#333'
         }
     ];
@@ -104,7 +104,7 @@ function Footer({ mood }) {
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
                 >
-                    Dernouni MK
+                    Zrari Mohamed
                 </motion.h1>
 
                 <motion.p 
@@ -171,7 +171,7 @@ function Footer({ mood }) {
                     animate={{ opacity: 0.8 }}
                     transition={{ delay: 1 }}
                 >
-                    © {currentYear} Dernouni MK. All rights reserved
+                    © {currentYear} Zrari. All rights reserved
                 </motion.span>
 
                 <motion.p 

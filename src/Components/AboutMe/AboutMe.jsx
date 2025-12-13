@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import './AboutMe.css';
 import AboutData from './AboutData.jsx';
-import CV from '../../assets/Dernouni.pdf';
+import CV from '../../assets/Zrari.pdf';
 
 function AboutMe({ mood }) {
     const [activeTimelineTab, setActiveTimelineTab] = useState('education');
@@ -19,7 +19,7 @@ function AboutMe({ mood }) {
                 id: 1,
                 title: "University of Mohamed Khider Biskra",
                 subtitle: "Bachelor in Computer Science",
-                period: "2023 - Present",
+                period: "2022 - Present",
                 description: "Studying advanced algorithms, data structures, and software engineering principles.",
                 icon: "uil-graduation-cap",
                 isCurrent: true,
@@ -317,7 +317,7 @@ function AboutMe({ mood }) {
                                         repeat: Infinity,
                                         ease: "linear"
                                     }}
-                                >Dernouni MK</motion.span>
+                                >Zrari Mohamed</motion.span>
                             </motion.h3>
                             
                             <motion.p 

@@ -4,10 +4,10 @@ import './Home.css'
 
 function Social({mood}) {
   const socialIcons = [
-    { title: 'Instagram', icon: 'uil-instagram', url: 'https://www.instagram.com/dernouni_mk/' },
-    { title: 'Linkedin', icon: 'uil-linkedin', url: 'https://www.linkedin.com/in/dernouni-mohamed-khalil-914ba92ba/' },
-    { title: 'Facebook', icon: 'uil-facebook', url: 'https://www.facebook.com/profile.php?id=100046511298578' },
-    { title: 'Github', icon: 'uil-github-alt', url: 'https://github.com/dernounimk' }
+    { title: 'Instagram', icon: 'uil-instagram', url: 'https://www.instagram.com/mohamed_zerari_/' },
+    { title: 'Phone', icon: 'uil-phone', url: 'tel:+213-696-393-740' },
+    { title: 'Facebook', icon: 'uil-facebook', url: 'https://www.facebook.com/mohamed.zerari.247390' },
+    { title: 'Telegram', icon: 'uil-telegram', url: 'https://t.me/MOHEZee' }
   ];
 
   return (
