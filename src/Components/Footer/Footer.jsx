@@ -104,7 +104,7 @@ function Footer({ mood }) {
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
                 >
-                    Zrari Mohamed
+                    Zerari Mohamed
                 </motion.h1>
 
                 <motion.p 
@@ -171,7 +171,7 @@ function Footer({ mood }) {
                     animate={{ opacity: 0.8 }}
                     transition={{ delay: 1 }}
                 >
-                    © {currentYear} Zrari. All rights reserved
+                    © {currentYear} Zerari. All rights reserved
                 </motion.span>
 
                 <motion.p 

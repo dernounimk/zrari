@@ -152,7 +152,7 @@ const Header = ({
               handleLinkClick('#home');
             }}
           >
-            Zrari
+            Zerari
           </motion.a>
 
           {/* Desktop Menu */}
