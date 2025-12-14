@@ -317,7 +317,7 @@ function AboutMe({ mood }) {
                                         repeat: Infinity,
                                         ease: "linear"
                                     }}
-                                >Zrari Mohamed</motion.span>
+                                >Zerari Mohamed</motion.span>
                             </motion.h3>
                             
                             <motion.p 
